@@ -2,7 +2,7 @@
 _"Revolutionize your crypto trading game with the ultimate AI-powered tool that predicts pump and dump activities before they happen!"_
 
 ### Overview
-**_"Crypto Pump Bot is a cutting-edge, AI-driven desktop application that analyzes market trends and uncovers potential pump and dump schemes in real-time. With its sleek design and advanced algorithms, this tool is a must-have for serious traders looking to stay ahead of the market."_
+**_"Crypto Pump Bot is a cutting-edge, AI-driven desktop application that analyzes market trends and uncovers potential pump and dump schemes in real-time. With its sleek design and advanced algorithms, this tool is a must-have for serious traders looking to stay ahead of the market."_**
 
 ### Features
 - _AI-Powered Predictions:_ Our state-of-the-art AI models analyze millions of data points to provide you with early warnings of pump and dump activities.
